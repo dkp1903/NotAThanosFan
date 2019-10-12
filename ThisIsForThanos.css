@@ -22,6 +22,8 @@ body {
   border-radius: 10px;
   background:url("thanos-logo.png") white 15px no-repeat;
   background-size: 50px;
+  outline-color: red;
+  outline-style: outset;
 }
 .dust {
   position: absolute;
